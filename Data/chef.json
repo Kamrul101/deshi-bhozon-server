@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1",
+      "_id":"ljknsdagghuiasduh_",
+      "picture": "https://images.squarespace-cdn.com/content/v1/5c5482a394d71a98976ca5a6/1578603575799-TC023O4KXLG6PODEXRGE/SaranSuvir2.jpg?format=300w",
+      "name": "Suvir Saran",
+      "bio": "Suvir Saran is an Indian American chef, author, and educator. He has worked in some of the finest hotels in India and the United States, including The Plaza Hotel in New York City. Saran is also the author of several cookbooks, including Indian Home Cooking: A Fresh Introduction to Indian Food and American Masala: 125 New Classics from My Home Kitchen.",
+      "likes": "5000",
+      "recipes":"50",
+      "experience": "25"
+    },
+    {
+      "id": "2",
+      "_id":"hewhtenflkdxzf!skfdsa",
+      "picture": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2019/09/10/file76xz1iyv8pgqtohi7z7-1568057401.jpg?itok=Q8ZOmEMz",
+      "name": "Sanjeev Kapoor",
+      "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is the founder of FoodFood, a 24x7 food and lifestyle channel, and has hosted numerous cooking shows, including Khana Khazana, which is one of the longest-running cooking shows in Asia. Kapoor is also the author of several cookbooks, including How to Cook Indian: More Than 500 Classic Recipes for the Modern Kitchen.",
+      "likes": "10000",
+      "recipes": "100",
+      "experience": "30"
+    },
+    {
+      "id": "3",
+      "_id":"ksfdhejggjfgaaawp_",
+      "picture": "https://im.rediff.com/getahead/2017/sep/06chefvikaskhanna.jpg?w=670&h=900",
+      "name": "Vikas Khanna",
+      "bio": "Vikas Khanna is an Indian Michelin-starred chef, restaurateur, and cookbook writer. He has worked in some of the finest hotels and restaurants around the world, including Junoon in New York City, which was awarded a Michelin star in 2011. Khanna is also the author of several cookbooks, including Flavors First: An Indian Chef's Culinary Journey.",
+      "likes": "15000",
+      "recipes":"75",
+      "experience": "20"
+    },
+    {
+      "id": "4",
+      "_id":"jopgasdhionsdnlkddfsdfa",
+      "picture": "https://4.bp.blogspot.com/-G_U0VpMNCkE/UUCyFmPBSWI/AAAAAAAAGj4/N4MPhQCnYoE/s640/madhur1.jpg",
+      "name": "Madhur Jaffrey",
+      "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has appeared in numerous films and television shows, including the Merchant Ivory film Shakespeare Wallah and the BBC series Madhur Jaffrey's Indian Cookery. Jaffrey is also the author of several cookbooks, including Madhur Jaffrey's Indian Cooking.",
+      "likes": "8000",
+      "recipes":"60",
+      "experience": "40"
+    },
+    {
+      "id": "5",
+      "_id":"ijkwdiu9wetpe-qwrlp",
+      "picture": "https://www.thecriticsguide.com/uploads/atul.jpg",
+      "name": "Atul Kochhar",
+      "bio": "Atul Kochhar is an Indian-born Michelin-starred chef, restaurateur, and television personality. He has worked in some of the finest restaurants in the world, including Benares in London, which was awarded a Michelin star in 2007. Kochhar is also the author of several cookbooks, including Benares: Michelin-starred Cooking.",
+      "likes": "12000",
+      "recipes":"45",
+      "experience": "25"
+    },
+    {
+      "id": "6",
+      "_id":"opeqrujpfff092salmasf",
+      "picture": "https://yt3.googleusercontent.com/ytc/AGIKgqPmebXxZ0oezruh5kDI3iDR8o2PQKAYOff5lFTdabI=s900-c-k-c0x00ffffff-no-rj",
+      "name": "Tarla Dalal",
+      "bio": "Tarla Dalal was an Indian chef, cookbook author, and television personality who helped popularize vegetarian cuisine in India and abroad. She authored over 100 cookbooks, hosted multiple television shows, and won several awards for her contributions to the culinary world.",
+     "likes": "1000",
+     "recipes": "100",
+    "experience": "30"
+    }
+]
+  

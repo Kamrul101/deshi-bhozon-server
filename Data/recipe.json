@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "chefName": "Nita Mehta",
+      "chefPicture": "https://example.com/nita-mehta.jpg",
+      "description": "This classic Indian dish is made with succulent chicken pieces cooked in a creamy tomato-based sauce, flavored with aromatic spices such as cumin, coriander, and garam masala. Served with fluffy basmati rice or hot naan bread, this dish is perfect for a hearty and flavorful meal. Butter chicken, also called Murgh Makhani, consists of bite-sized pieces of succulent boneless chicken thigh simmered in a creamy and super flavourful spiced tomato and cream sauce. It has a perfect balance of spicy and sweet, but is definitely mild on the spice spectrum of Indian curries. Even the littlest kids love this yummy sauce with its warm, cozy spices and chunks of tender chicken. ",
+      "likes": 128,
+      "numRecipes": 3,
+      "yearsExperience": 25,
+      "recipeName": "Butter Chicken"
+    },
+    {
+      "id": 2,
+      "chefName": "Sanjeev Kapoor",
+      "chefPicture": "https://example.com/nita-mehta.jpg",
+      "description": "This classic Indian dish is made with succulent chicken pieces cooked in a creamy tomato-based sauce, flavored with aromatic spices such as cumin, coriander, and garam masala. Served with fluffy basmati rice or hot naan bread, this dish is perfect for a hearty and flavorful meal. Butter chicken, also called Murgh Makhani, consists of bite-sized pieces of succulent boneless chicken thigh simmered in a creamy and super flavourful spiced tomato and cream sauce. It has a perfect balance of spicy and sweet, but is definitely mild on the spice spectrum of Indian curries. Even the littlest kids love this yummy sauce with its warm, cozy spices and chunks of tender chicken. ",
+      "likes": 128,
+      "numRecipes": 4,
+      "yearsExperience": 25,
+      "recipeName": "Palak Paneer"
+    },
+    {
+      "id": 3,
+      "chefName": "Tarla Dalal",
+      "chefPicture": "https://example.com/sanjeev-kapoor.jpg",
+      "description": "This Chana Masala, also known as Chole Masala, is an authentic North Indian style curry made with white chickpeas, freshly powdered spices, onions, tomatoes and herbs. Naturally vegan and packed with healthy minerals, protein and fiber, this delicious vegetarian meal can be ready in just 45 minutes minus the soaking time of chickpeas. This vegetarian recipe features a flavorful blend of chickpeas, onions, tomatoes, and spices such as cumin, turmeric, and chili powder. A staple in Indian cuisine, chana masala is often served with rice or naan bread and makes for a filling and satisfying meal.",
+      "likes": 85,
+      "numRecipes": 5,
+      "yearsExperience": 30,
+      "recipeName": "Chana Masala"
+    },
+    {
+      "id": 4,
+      "chefName": "Vikas Khanna",
+      "chefPicture": "https://example.com/sanjeev-kapoor.jpg",
+      "description": "This Chana Masala, also known as Chole Masala, is an authentic North Indian style curry made with white chickpeas, freshly powdered spices, onions, tomatoes and herbs. Naturally vegan and packed with healthy minerals, protein and fiber, this delicious vegetarian meal can be ready in just 45 minutes minus the soaking time of chickpeas. This vegetarian recipe features a flavorful blend of chickpeas, onions, tomatoes, and spices such as cumin, turmeric, and chili powder. A staple in Indian cuisine, chana masala is often served with rice or naan bread and makes for a filling and satisfying meal.",
+      "likes": 85,
+      "numRecipes": 5,
+      "yearsExperience": 30,
+      "recipeName": "Chana Masala"
+    },
+    {
+      "id": 5,
+      "chefName": "Ritu Dalmia",
+      "chefPicture": "https://example.com/tarla-dalal.jpg",
+      "description": "Rogan Josh – an Indian lamb curry with a heady combination of intense spices in a creamy tomato curry sauce. The lamb is fall apart tender and packs a serious flavour punch.Rogan Josh is one of the heavy hitters at Indian restaurants, a firm favourite alongside Butter Chicken, Tikka Masala and Tandoori. This flavorful Indian recipe is made with tender cubes of lamb simmered in a fragrant gravy of onions, ginger, garlic, and spices such as cardamom, cloves, and cinnamon. Served with basmati rice and garnished with fresh cilantro, this dish is a delicious way to enjoy lamb.",
+      "likes": 73,
+      "numRecipes": 8,
+      "yearsExperience": 20,
+      "recipeName": "Lamb Rogan Josh"
+    },
+    {
+      "id": 6,
+      "chefName": "Manish Mehrotra",
+      "chefPicture": "https://example.com/tarla-dalal.jpg",
+      "description": "Rogan Josh – an Indian lamb curry with a heady combination of intense spices in a creamy tomato curry sauce. The lamb is fall apart tender and packs a serious flavour punch.Rogan Josh is one of the heavy hitters at Indian restaurants, a firm favourite alongside Butter Chicken, Tikka Masala and Tandoori. This flavorful Indian recipe is made with tender cubes of lamb simmered in a fragrant gravy of onions, ginger, garlic, and spices such as cardamom, cloves, and cinnamon. Served with basmati rice and garnished with fresh cilantro, this dish is a delicious way to enjoy lamb.",
+      "likes": 73,
+      "numRecipes": 8,
+      "yearsExperience": 20,
+      "recipeName": "Lamb Rogan Josh"
+    }
+  ]
+  
